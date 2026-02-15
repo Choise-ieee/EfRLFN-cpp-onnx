@@ -72,13 +72,16 @@ According to the main.cpp in files,select efrlfn_x4.onnx or efrlfn_x2.onnx
 
 # Inference results
 The orignal Picture(1K)
-[1k.bmp](https://github.com/user-attachments/files/25322923/1k.bmp)
+<img width="2314" height="1438" alt="image" src="https://github.com/user-attachments/assets/f82d97d9-1fc5-4d77-bfd8-9bffa2ff910d" />
+
 
 The 2X scale+ picture(2K output)
-[2k.bmp](https://github.com/user-attachments/files/25322937/2k.bmp)
+<img width="2314" height="1438" alt="image" src="https://github.com/user-attachments/assets/87f7bcfa-3dcc-4c85-b8fb-0e972f57fe83" />
+
 
 The 4X scale+ picture(4K output)
-[4k.bmp](https://github.com/user-attachments/files/25322937/4k.bmp)
+<img width="2314" height="1438" alt="image" src="https://github.com/user-attachments/assets/6c7915dd-031c-4643-ba97-b8505e612171" />
+
 
 # PS.
 We also can enable GPU calculation by enable the thress lines codings
