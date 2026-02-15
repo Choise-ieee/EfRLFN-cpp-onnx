@@ -1,5 +1,7 @@
 # EfRLFN-cpp-onnx
-The cpp and onnx version of papar "Exploring Real-Time Super-Resolution: Benchmarking and Fine-Tuning for Streaming Content" (https://arxiv.org/abs/2602.11339)(https://github.com/EvgeneyBogatyrev/EfRLFN)
+The cpp and onnx version of papar "Exploring Real-Time Super-Resolution: Benchmarking and Fine-Tuning for Streaming Content" 
+(https://arxiv.org/abs/2602.11339)
+(https://github.com/EvgeneyBogatyrev/EfRLFN)
 
 # Export Model to ONNX (Python)-export_onnx.py in files
 ```python
@@ -86,4 +88,10 @@ The 4X scale+ picture(4K output)
 # PS.
 We also can enable GPU calculation by enable the thress lines codings
 <img width="1796" height="1032" alt="image" src="https://github.com/user-attachments/assets/d75708fa-6933-493f-956e-975a5be0ce6d" />
+
+Also Thanks for their works
+	arXiv:2602.11339 [cs.CV]
+ 	(or arXiv:2602.11339v1 [cs.CV] for this version)
+ 
+https://doi.org/10.48550/arXiv.2602.11339
 
